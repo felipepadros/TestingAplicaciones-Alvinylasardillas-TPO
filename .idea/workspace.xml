@@ -32,51 +32,48 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ramiro\Documents\GitHub\TestingAplicaciones-Alvinylasardillas-TPO" />
+      <recent name="C:\Users\Ramiro\Documents\GitHub\TestingAplicaciones-Alvinylasardillas-TPO\test_cases\TC a Ejecutar\automated" />
+      <recent name="C:\Users\Ramiro\Documents\GitHub\TestingAplicaciones-Alvinylasardillas-TPO\test_cases\TC a Ejecutar\PE-16" />
       <recent name="C:\Users\Ramiro\Documents\GitHub\TestingAplicaciones-Alvinylasardillas-TPO\test_cases\TC a Ejecutar\automated\PE-16" />
       <recent name="C:\Users\Ramiro\Documents\GitHub\TestingAplicaciones-Alvinylasardillas-TPO\test_cases\TC a Ejecutar" />
-      <recent name="C:\Users\Ramiro\Documents\GitHub\TestingAplicaciones-Alvinylasardillas-TPO\test_cases\PE-16" />
-      <recent name="C:\Users\Ramiro\Documents\GitHub\TestingAplicaciones-Alvinylasardillas-TPO\test_cases" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for tc-00.TestUntitled.test_untitled">
-    <configuration name="pytest for tc-00.TestUntitled" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest in bin2">
+    <configuration name="Python tests in bin" type="tests" factoryName="Autodetect" nameIsGenerated="true">
       <module name="TestingAplicaciones-Alvinylasardillas-TPO" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_cases/TC a Ejecutar/automated/PE-16" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Ramiro\Documents\GitHub\TestingAplicaciones-Alvinylasardillas-TPO\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in bin2" type="tests" factoryName="py.test">
+      <module name="TestingAplicaciones-Alvinylasardillas-TPO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Ramiro\Documents\GitHub\TestingAplicaciones-Alvinylasardillas-TPO\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;tc-00.TestUntitled&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for tc-00.TestUntitled.test_untitled" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="TestingAplicaciones-Alvinylasardillas-TPO" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_cases/TC a Ejecutar/automated/PE-16" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;tc-00.TestUntitled.test_untitled&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python tests.pytest for tc-00.TestUntitled.test_untitled" />
-        <item itemvalue="Python tests.pytest for tc-00.TestUntitled" />
-      </list>
-    </recent_temporary>
+    <list>
+      <item itemvalue="Python tests.Python tests in bin" />
+      <item itemvalue="Python tests.pytest in bin2" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
